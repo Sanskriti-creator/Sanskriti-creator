@@ -1,4 +1,10 @@
 ## Hi there 👋
+# Hi, I'm Sanskriti 👋
+
+- **Branch:** CSE Core
+- **Year:** 1st Year
+- **Goal:** I hope to learn more about web development and open source contributions.
+
 
 <!--
 **Sanskriti-creator/Sanskriti-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
